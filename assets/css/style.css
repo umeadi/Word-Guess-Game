@@ -1,0 +1,20 @@
+.jumbotron {
+    padding: 0.2em 0.6em;
+    background-color: #777777;
+}
+
+.btn {
+    padding: 0.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+h1 {
+        font-size: 2em;
+}
+
+.col-md-10 {
+    background-color: #959595;
+}
