@@ -1,5 +1,7 @@
 body {
     color: #eee;
+    background: url(assets/images/zwartevilt.jpg) #111111;
+    width: 100%;
 }
 .jumbotron {
     padding: 0.2em 0.6em;
